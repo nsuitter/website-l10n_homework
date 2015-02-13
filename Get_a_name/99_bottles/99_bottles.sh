@@ -1,7 +1,6 @@
 #!/bin/sh
 
-for ((i=100
-	..; i>=1; i--));do
+for ((i=99; i>=1; i--));do
 	if ((i == 1)); then
 		echo "1 bottle of beer on the wall"
 		echo "1 bottle of beer"
