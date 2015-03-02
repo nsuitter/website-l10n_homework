@@ -1,0 +1,145 @@
+<style type="text/css">
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Lato', sans-serif;      
+}
+
+.container {
+ 	width: 700px;
+  	margin: 0 auto;
+  	padding: 32px;
+}
+
+h1 a {
+	color: #CC0000;
+	font-size: 36pt;
+	font-weight: 300;
+	text-decoration: none;
+	padding-bottom: 15px;
+	display: block;
+}
+
+header, h1, h2, h3, h4 {
+	padding: 0;
+	margin: 0;
+}
+
+h2 {
+	display: block;
+	font-size: 18pt;
+	font-weight: 300;
+}
+
+header nav li a {
+	display: block;
+	color: #E6E6E6;
+	font-size: 16pt;
+	font-weight: 300;
+	text-decoration: none;
+	border-bottom: 2px solid #E6E6E6;
+	padding-bottom: 2px;
+}
+
+header nav ul {
+	padding-left: 0;
+}
+
+header nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	padding-right: 26px;
+}
+
+header nav {
+	display: block;
+	padding: 0;
+	margin: 0;
+	padding-bottom: 50px;
+}
+
+article h3 {
+	color: #CCCCCC;
+	font-size: 24pt;
+	font-weight: 300;
+	padding-bottom: 20px;
+}
+
+h2 a {
+	display: block;
+	text-decoration: none;
+	color: black;
+	font-size: 26pt;
+	padding-bottom: 10px;
+}
+
+p {
+	font-size: 14pt;
+	font-weight: 300;
+}
+
+article p:first-letter { 
+	float: left; 
+	color: #CCCCCC; 
+	font-size: 86px; 
+	line-height: 60px;  
+	padding-right: 8px;
+	padding-bottom: 8px; 
+}
+
+img {
+	width: 700px;
+}
+
+h4 {
+	text-align: right;
+}
+
+h4 a {
+	color: #CC0000;
+	font-weight: 700;
+	font-size: 14pt;
+	text-decoration: none;
+}
+
+article {
+	width: 700px;
+	border-bottom: 1px solid #E6E6E6;
+	padding-bottom: 30px;
+	margin-bottom: 50px;
+}
+
+footer nav ul {
+	padding-left: 0;
+	margin: 0;
+}
+
+footer nav ul li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+footer nav ul li a {
+	color: #CC0000;
+	font-size: 14pt;
+	font-weight: 300;
+	display: inline-block;
+	text-decoration: none;
+	border-right: 1px solid #E6E6E6;
+	padding-right: 5px;
+}
+
+footer p {
+	padding-top: 30px;
+	margin: 0;
+	font-size: 12pt;
+	font-weight: 300;
+	color: #CCCCCC;
+}
+
+</style>
