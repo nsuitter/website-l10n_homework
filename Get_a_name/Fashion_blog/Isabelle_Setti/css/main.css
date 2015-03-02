@@ -60,7 +60,10 @@
 	}
 
 
-
+	.bottom-options {
+		padding-top: 30px;
+	}
+	
 	.bottom-options li {
 		margin: 0;
 		padding-right: 5px;
