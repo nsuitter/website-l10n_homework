@@ -1,0 +1,99 @@
+<style type="text/css">
+  
+  body{
+    margin:60px;
+    font-family: 'Raleway', sans-serif;
+  }  
+
+  h1 a{
+    color: #A80000 ;
+    font-size:45px;
+    font-weight:100;
+    letter-spacing:0.01px;
+  text-decoration: none;}
+
+  h2 {
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    font-weight: 200;
+  }
+  ul{
+    padding:0px;
+  }
+
+  li{
+    display:inline-block;}
+
+  header ul a{
+       color:#A0A0A0;
+      margin-right: 40px;}
+
+
+  h3
+  {
+  color:#A0A0A0;
+  font-weight: 200;
+  font-family: times;
+  font-size: 35px; 
+
+}
+
+h2 a {text-decoration: none;
+  color:black;
+     font-size: 30px
+}
+
+
+img{
+  width: 100%
+  height : auto;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+div p:first-letter{ 
+ float: left; 
+ color: #A0A0A0; 
+ font-size: 75px; 
+ line-height: 60px; 
+ padding-top: 4px; 
+ padding-right: 8px; 
+ padding-left: 3px;
+ font-weight: 200;
+}
+p{
+  color: #989898;
+  font-weight:200;
+  line-height: 150%;}
+
+h4 a{
+  text-decoration: none;
+  color:#A80000 ;
+  float: right;
+  overflow: auto;
+
+}
+header{
+  margin-bottom: 100px;
+
+}
+
+article{
+  border-bottom-style: solid;
+    border-width: 1px;
+    border-color:#A0A0A0; 
+    padding-bottom: 100px;
+}
+
+footer ul a{
+  text-decoration: none;
+  color: #A80000 ;
+  border-left: 1px solid #B7D0E4; 
+  display: inline-block; 
+       margin-left: -1px; 
+       padding: 0px 0px 0px 3px; 
+}
+footer li{padding:0px;}
+
+
+</style>
