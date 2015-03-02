@@ -1,0 +1,99 @@
+/*For some reason, when I don't gray out the @import, I cannot display the dropcap. Weird*/ 
+/*@import url('http://fonts.googleapis.com/css?family=Roboto');*/
+
+body {
+	font-family: "Roboto", sans-serif;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+}
+
+article p {
+	color: gray;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	margin: 3px;
+}
+
+
+header li a {
+	color: gray;
+}
+
+header li {
+	border-bottom: 1px solid gray;
+	font-size: 110%;
+}
+
+hr {
+	color: gray;
+}
+
+h1 a {
+	color: firebrick;
+}
+
+h2 {
+	font-weight: lighter;
+	margin-top: 0;
+}
+
+h2 a {
+	color: black;
+	font-size: 120%;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+h4 a {
+	color: red;
+}
+
+h4 {
+	text-align: right;
+}
+
+h3 {
+	color: gray;
+	font-size: 20pt;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+
+footer li a {
+	color: red;
+}
+
+footer li {
+	border-right: 1px solid gray;
+	padding-right: 3px;
+}
+
+footer li:last-child {
+	border-right: none;
+}
+
+article p:first-letter {
+	float: left;
+	font-size: 80px;
+	line-height: 60px;
+	padding-top: 4px;
+	padding-right: 6px;
+	padding-bottom: 4px;
+	padding-left: 0;
+}
