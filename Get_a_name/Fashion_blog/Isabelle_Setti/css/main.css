@@ -12,7 +12,9 @@
 	body {
 		width: 810px;
 		border-left: solid 5px #D0D0D0;
+		margin-top: 0;
 		padding: 30px;
+		margin-left: 20%;
 	}
             
 
@@ -56,6 +58,8 @@
 		color: #D0D0D0;
 		font-size: 18pt;
 	}
+
+
 
 	.bottom-options li {
 		margin: 0;
