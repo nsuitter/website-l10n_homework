@@ -1,16 +1,21 @@
-@import url('http://fonts.googleapis.com/css?family=Roboto');
+@import url('http://fonts.googleapis.com/css?family=Lato');
 
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: "Lato", sans-serif;
 	margin-left: 17%;
 	margin-right: 17%;
 	margin-top: 5%;
 
 }
 
+img {
+	width: 100%;
+}
+
 a {
 	text-decoration: none;
 }
+
 
 li {
 	display:inline;
@@ -21,8 +26,8 @@ li {
 
 }
 
-header li {
-	color: #D9D9D9;
+header li a {
+	color: grey;
 	border-bottom: 1px solid #D9D9D9;
 
 }
@@ -41,10 +46,18 @@ hr {
 	margin-bottom: 1px;
 	}
 
+h4 a {
+	color: red;
+}
+
 h4 {
 	text-align: right;
 	color: red;
 
+}
+
+h1 a {
+	color: #D9D9D9;
 }
 
 h1 {
@@ -67,6 +80,9 @@ h3 {
 	color: #D9D9D9;
 }
 
+footer li a {
+	color: red;
+}
 footer li {
 	color: red;
 	border-right: 1px solid #D9D9D9;
@@ -87,6 +103,9 @@ p {
 	color: #646769;
 }
 
+h2 a {
+	color: black;
+}
 h2 {
 	font-size: 20pt;
 }
