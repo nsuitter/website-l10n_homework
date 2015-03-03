@@ -22,7 +22,6 @@ body {
   line-height: 1.5;
   background: #FFF;
   color: #444;
-  border-left: 6px solid #DDD;
 }
 
 
@@ -32,19 +31,13 @@ a {
   text-decoration: none;
 }
 
-
-nav ul {
- list-style: none;
+nav ul li {
+  list-style: none;
    margin：0；
    padding：0；
-
-}
-
-nav ul li {
-  display:inline;
+   display:inline;
   width:16.6666666%;
   float:left;
-  padding: 0;
   margin:0;
 }
 
@@ -92,24 +85,21 @@ p {
 }
 
 
-
 footer p{ 
   color: #CCC;
 }
 
 footer nav a {
-  display:inline;
+  display:inline-block;
   clear: both;
   color: red;
   font-size: 1em;
   color: red;
   text-decoration: none;
-  border-style: solid;
-  border-left: hidden;
-  border-top:hidden;
-  border-bottom: hidden;
+  border-right:solid;
   border-color: #CCC;
-
+  padding: 0 -50px 0 -50px;
+  margin:-50px;
 }
 
 
@@ -175,7 +165,7 @@ article p:first-of-type:first-letter {
         <br/> <br/>
         </ul>
       </nav>
-      <p>  © 2013 Valet Industries, Inc.</p>
+      <p>© 2013 Valet Industries, Inc.</p>
     </footer>
   </div>
 </body>
