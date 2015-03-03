@@ -1,7 +1,7 @@
 <style type="text/css">
   
   body{
-    margin:60px;
+    margin: 60px;
     font-family: 'Raleway', sans-serif;
   }  
 
@@ -45,8 +45,8 @@ h2 a {text-decoration: none;
 
 
 img{
-  width: 100%
-  height : auto;
+  width: 100%;
+  height:auto;
   max-height: 100%;
   max-width: 100%;
 }
