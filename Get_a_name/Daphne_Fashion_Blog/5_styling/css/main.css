@@ -1,0 +1,149 @@
+
+
+* {
+font-family: Helvetica; 
+font-weight: lighter;
+}
+
+body {
+margin:40px;
+}
+
+
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+img {
+	vertical-align: middle;
+	width: auto;
+}
+
+h1 {
+    height: 70px;
+    font-size: 65px;
+    font-weight: 300;
+    margin: 10px 0px 0px 0px;
+}
+
+h1 > a {
+    color: #DA0000;
+    text-decoration: none;
+}
+header > nav > ul {
+	text-align:left; 
+	margin-left: -50px;
+}
+header > nav > ul > li> a {
+    text-decoration: none;
+    color: #DDD;
+    font-size: 28px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #DDD;
+}
+
+
+li {
+	list-style: none;
+	display: inline;
+	margin: 10px;
+}
+
+p {
+    color: #777;
+    font-size: 20px;
+}
+h2 {
+    font-size: 25pt;
+}
+
+h2 > a {
+    text-indent: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 44px;
+    font-weight: 300;
+}
+
+h3 {
+	color:#DDD;
+	font-size: 32pt;
+	font-weight: thin;
+    margin-bottom: -20px;
+}
+
+p {
+    color: #777;
+    font-size: 20px;
+}
+article{
+	
+	border-bottom: 1px solid #ddd;
+    padding-bottom: 30px;
+}
+
+article p:first-letter { /*idea borrowed from here - http://css-tricks.com/snippets/css/drop-caps/*/
+    font-size: 125px;
+    line-height: 100px;
+    float:left;
+    padding-right: 5px;
+    color: #CDCDCD;
+}
+
+
+h4 > a {
+    font-weight: 500;
+    color: #DA0000;;
+    text-decoration: none;
+    float: right;
+    font-size: 16pt;
+    font-weight: bold;
+	margin-top: -30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+   /*margin-left:-50px;*/
+   padding-top: 0px;
+   padding: 58px;
+}
+
+footer >nav>ul>li{
+	display: inline-block;
+    padding-right: 2px;
+    padding-left: 6px;
+    margin-right:-4px;
+    padding-top: 0px;
+}
+footer > nav > ul > li:nth-child(n+2){
+	color: #bbbbbb;
+    border-left:1px solid;
+}
+footer > nav > ul > li > a {
+	text-decoration: none;
+    color: #DA0000;
+    font-size: 15pt;	
+	text-align:center; 	
+    padding-top: -30px; 
+}
+
+footer p {
+	color: #DDD;
+    font-size: 15pt;
+    text-align: left;
+    text-indent: 50px;
+}
+
+
+	
