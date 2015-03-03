@@ -1,0 +1,134 @@
+<style type="text/css">
+
+* {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+h1 a {
+	font-family: 'Lato', sans-serif;
+	color: #ee3b3b;
+	font-size:53px;
+	text-decoration: none;
+	font-weight: 300;
+}
+
+header h2 {
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+header ul {
+		padding-left:0;
+		margin-left:0;
+}
+header li  {
+		list-style: none;
+		display: inline;
+		margin-right:15px;
+}
+
+header li a {
+		font-family: 'Lato', sans-serif;
+		color: #cfcfcf;
+		font-size: 25px;
+		font-weight: 300;
+}
+
+h3 {
+	font-family: 'Lato', sans-serif;
+	font-size: 35px;
+	margin: 0;
+	padding-top:45px;
+	padding-bottom: 10px;
+	color: #cfcfcf;
+	font-weight: 300;
+}
+
+article h2 {
+	margin-top:0;
+}
+
+article h2 a {
+		text-decoration: none;
+		font-family: 'Lato',sans-serif;
+		font-size: 35px;
+		color:black;
+		font-weight: 300;
+}
+
+img {
+	width:700px;
+}
+
+p {
+	margin-top:15px;
+	font-family: 'Lato',sans-serif;
+	font-size: 18.5px;
+	color:#4a4a4a;
+	width:700px;
+	font-weight: 300;
+}
+
+article p:first-letter {
+	font-family: 'Lato',sans-serif;
+	font-size: 75pt;
+	float:left;
+	padding-right:10px;
+	padding-bottom:0;
+	color:#dbdbdb;
+	font-weight: 300;
+}
+
+h4 {
+	text-align: right;
+	padding-top:40px;
+	width:700px;
+}
+
+h4 a{
+	font-family: 'Lato',sans-serif;
+	font-size: 18.5px;
+	color:#ee3b3b;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+article {
+	border-bottom: 1px solid #dbdbdb;
+	width:700px;
+}
+
+footer ul {
+		padding-left:0;
+		margin-left:0;
+		margin-top: 55px;
+}
+footer li  {
+		list-style: none;
+		display: inline;
+		margin-right:3px;
+}
+
+footer li a {
+		font-family: 'Lato', sans-serif;
+		color: #ee3b3b;
+		font-size: 18px;
+		font-weight: 300;
+		text-decoration: none;
+		border-right: 2px solid #dbdbdb;
+		padding-right:3px;
+}
+
+footer li:last-child {
+		border-right:none;
+}
+
+footer p {
+		font-family: 'Lato', sans-serif;
+		color: #dbdbdb;
+		font-weight: 300;
+}
+</style>
