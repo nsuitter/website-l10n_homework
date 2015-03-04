@@ -1,0 +1,119 @@
+
+  <style type="text/css">
+
+  body{
+    border-left: 10px solid gray;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    padding-left:100px;
+    padding-right:300px;
+    padding-top: 100px;
+    padding-bottom: 100px
+    }
+
+
+  h1 a{
+    color: red;  
+    text-decoration: none;
+    }
+
+  h2{
+    /*margin-bottom: 0px*/
+  }
+  
+  h2 a{
+    color:black;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    text-decoration: none;
+    margin-top: 0px
+  }
+
+  h3{
+    color: gray;
+    font-size: 30pt;
+    /*line-height:100px;*/
+    margin-bottom: 0px;
+    margin-top:70px;
+  }
+
+  h4{
+    text-align: right
+    }
+
+  h4 a{
+    color: red;
+    /*line-height:100px;*/
+  }
+
+  /*li{
+    list-style-type: none;
+    display: inline;
+    margin: 6px;
+    font-size: 15pt
+    }
+
+*/
+    header nav ul{
+      padding-left:0px
+    }
+
+    header nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    font-size: 16pt;
+
+    }
+   
+
+    header nav ul li a{
+      color: gray;
+    }
+
+
+    
+    footer nav ul{
+      padding-left:0px
+    }
+
+    footer nav ul li{
+      color: gray;
+      text-decoration: none;
+      list-style-type: none;
+      display: inline;
+      margin-right: 5px;
+      font-size: 16pt
+    }
+
+    footer nav ul li a{
+      color: red;
+      text-decoration: none
+    }
+
+    
+    p{
+      color: gray
+    }
+
+    /*p:first-child:first-letter{
+      float: left;font-size: 75pt
+    }*/
+    span {
+    float: left;
+    width: 0.7em;
+    font-size: 500%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    line-height: 80%;
+    }
+
+    img{
+        position:center;
+            }
+
+    article{
+      width: 900px;
+      border-bottom:2px solid gray;
+
+    }
+    /** { margin: 0; padding: 0; }*/
+  
+  </style>
