@@ -88,14 +88,19 @@ footer a{
 }
 
 
-footer li{
-	display: inline;
+footer li {
+list-style: none;
+display: inline-block;
+text-align: left;
+padding-left:5px;
+padding-right:3px;
+border-left:1px solid #dddddd;
+height:15px;
+line-height:10px;
 }
 
-
-footer li:nth-child(n+2)::before{
-	content:"| ";
-	color:#dddddd;
+footer li:first-child{
+	border-left:0px;
 }
 
 footer p{
