@@ -1,0 +1,160 @@
+<style type="text/css">
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+ 
+body {
+  font-family: 'Lato', sans-serif;
+  color: #444;
+  border-left: 6px solid #dddddd;
+  margin: 0;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 3em;
+}
+
+a {
+  color: #d00;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,h2,h4,h5,h6 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 47.5pt;
+  font-weight: 400;
+  display: inline;
+  margin-bottom: 0.25em;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: normal;
+  margin-bottom: 0.5em;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+nav ul li {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+header nav {
+  width: 100%;
+}
+
+header nav ul li {
+  display: inline;
+  text-align: left;
+  margin: 0;
+  border-right: 1px solid #ffffff;
+  border-bottom: 1px;
+}
+
+header nav a {
+  margin-right: 1em;
+  color: #dddddd;
+  font-size: 14pt;
+  border-bottom: 1px solid #dddddd;
+  font-weight: 300;
+}
+
+article h4 {
+  text-align: right;
+}
+
+article p:first-letter{
+  font-size: 650%;
+  color: #dddddd;
+  float: left;
+  font-weight: 300;
+  line-height: 60px; 
+  padding-top: 4px; 
+  padding-right: 8px; 
+  padding-left: 3px; 
+}
+
+li {
+  display: inline;
+  margin: 5px;
+  list-style: none;
+  padding-left: 0;
+  font-size: 15pt;
+}
+
+h3 {
+  font-size: 25pt;
+  color: #dddddd;
+  font-weight: 300;
+  padding-top: 1.5em;
+  padding-bottom: 0;
+  margin: 0;
+  text-align: left;
+}
+
+footer ul nav li a {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+footer nav ul li {
+  display: inline;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-left: 1px solid #dddddd;
+  border-bottom: 1px;
+}
+
+footer nav ul li:first-child {
+  border-left: none;
+}
+
+footer a {
+  display: inline;
+}
+
+footer p {
+  color: #dddddd;
+  border-bottom: 2px;
+  text-align: left;
+  padding-top: 0.25em;
+  font-weight: 300;
+}
+
+footer {
+  text-align: left;
+  margin-left: 0;
+  padding-top: 2em;
+}
+
+h2 a {
+  color: inherit;
+}
+
+article {
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 2em;
+  padding-top: 0;
+}
+
+</style>
