@@ -1,0 +1,122 @@
+<style type="text/css">
+
+body {
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+.container {
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+	font-family: 'Lato', sans-serif;
+}
+
+header:first-child h2 {
+	font-weight: 100;
+}
+
+nav:first-child ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 a {
+	font-weight: 100;
+	color: #d00;
+	background-color: white;
+	margin: 0px;
+	padding-top: 360px;
+	text-decoration: none;
+}
+
+h2 a {
+	font-weight: 100;
+	text-decoration: none;
+	color: black;
+}
+
+h3 {
+	font-weight: 100;
+	font-size: 30px;
+	color: lightgray;
+}
+
+h4 {
+	text-align: right;
+	color: #d00;
+	text-decoration: none;
+}
+
+h4 a {
+	text-align: right;
+	color: #d00;
+	text-decoration: none;
+}
+
+header ul a {
+	padding: 0px;
+	text-decoration: none;
+	color: lightgray;
+}
+
+header nav li {
+	margin-left: -10px;
+	margin-right: 15px;
+	display: inline;
+	color: lightgray;
+	text-decoration: none;
+	border-style: solid;
+	border-left: hidden;
+	border-right: hidden;
+	border-top: hidden;
+	line-height: 1;
+	padding: 0;
+}
+
+footer nav li {
+	display: inline;
+	color: lightgray;
+	text-decoration: none;
+	border-style: thin;
+	border-left: hidden;
+	border-right: hidden;
+	border-top: hidden;
+	border-bottom: hidden;
+	line-height: 1;
+}
+
+article p:first-letter { 
+	float: left; 
+	color: lightgray; 
+	font-size: 125px; 
+	line-height: 60px; 
+	padding-top: 35px; 
+	padding-right: 8px; 
+	padding-bottom: 15px;
+	font-weight: 100; 
+}
+
+p {
+	line-height: 30px;
+}
+footer ul a {
+	padding: 10px;
+	text-decoration: none;
+	color: lightgray;
+}
+
+footer nav a {
+	color: #d00;
+	border-right: solid;
+	border-bottom: hidden;
+	border-color: lightgray;
+	padding: none;
+	margin: none;
+}
+
+footer p {
+	color: lightgray;
+	font-weight: 100;
+}
+</style>
