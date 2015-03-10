@@ -1,0 +1,107 @@
+@import url('http://fonts.googleapis.com/css?family=Lato');
+
+body {
+	font-family: "Lato", sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 a {
+	font-size: 42px;
+	font-weight: 100;
+	color: #DB4949;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+li {
+    display: inline;
+    margin: 4.5px;
+    list-style: none;
+    padding: 0px 2px 0px 2px;
+    font-size: 22px;
+}
+
+header li {
+	color: #DDDDDD;
+	text-align: left;
+	border-bottom: 2px solid #DDDDDD;
+}
+
+nav ul{
+	padding:0;
+}
+
+a:visited {
+	color: inherit;
+};
+
+ul {
+	margin:0;
+	padding:0; 
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: lighter;
+	color: #DDDDDD;
+}
+
+article p:first-letter {
+	float: left;
+	font-size: 80px;
+	font-weight: lighter; 
+	color: #DDDDDD;
+	line-height: 60px;
+	padding-top: 1px;
+	padding-right: 6px;
+	padding-left: 0px;
+	padding-bottom: 6px;
+}
+
+hr {
+	border-color: 1px #DDDDDD;
+	margin-bottom: 20px;
+}
+
+h4 {
+	text-align: right;
+	color: red;
+}
+
+footer ul li {
+	font-size: 16px;
+	color: red;
+	border-right: 1px solid #DDDDDD;
+	padding-right: 6px;
+	padding-left: 0;
+	text-align: left;
+}
+
+footer li:last-child {
+    border-right: none;
+}
+
+footer p {
+    color: #cccccc;
+}
+
+footer {
+	padding-top: 25px;
+}
+
+img {
+  max-width: 100%;
+}
+
+article p {
+	font-weight: lighter; 
+};
+
