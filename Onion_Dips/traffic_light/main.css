@@ -6,6 +6,7 @@ body {
 }
 
 ul.command {
+  list-style-type: none;
   display: inline-block; 
   margin-top: 100px;
   float: left;
@@ -26,6 +27,7 @@ ul.command li {
 }
 
 ul.case {
+  list-style-type: none;
   display: inline-block;
   margin-left: 40px;
   height: 540px;
@@ -37,7 +39,6 @@ ul.case {
 }
 
 ul.case li {
-  list-style-type: none;
   height: 150px;
   width: 150px;
   border-radius: 75px;
