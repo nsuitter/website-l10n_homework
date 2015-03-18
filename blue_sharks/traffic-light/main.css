@@ -1,0 +1,51 @@
+
+	a {
+		list-style: none;
+		box-sizing:border-box;
+	}
+
+	ul {
+		list-style: none;
+	}
+
+	.lightsback {
+		background-color: #333333;
+		height: 530px;
+		width: 220px;
+		float: left;
+		padding:20px;
+		margin-left: 70px;
+		border-radius: 50px;
+		}
+
+	.lights li {
+		height: 150px;
+		width: 150px;
+		margin-top: 20px;
+		border-radius: 50%;
+		background-color: black;
+	}
+
+	.buttons {
+		height: 500px;
+		width: 110px;
+		float: left;
+	}
+
+	.buttons li {
+		height: 50px;
+		width: 100px;
+		margin: 80px 0 80px 0;
+		padding: 15px 10px 15px 10px;
+		background-color: grey;
+		text-align: center;
+		font-size: 30px;
+		font-weight: bold;
+		font-family: Arial;
+		color: white;
+		border-radius: 10px;	
+	}
+
+	.red {
+		background-color: black;
+	}
