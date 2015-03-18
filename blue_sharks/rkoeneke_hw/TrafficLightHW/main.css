@@ -1,0 +1,97 @@
+* {
+	list-style: none;
+}
+
+body {
+	text-align: center;
+	font-family: calibri;
+  font-size: 24pt;
+  font-color: white;
+}
+
+li {
+	display: vertical;
+	width: 100px;
+	border-radius: 180px;
+  margin: 5%;
+  margin-left: 22px;
+  padding: 10px auto;
+
+}
+
+.red {
+	background-color: black;
+  height: 150px;
+  width: 150px;
+}
+
+.yellow {
+	background-color: black;
+  height: 150px;
+  width: 150px;
+}
+
+.green {
+	background-color: black;
+  height: 150px;
+  width: 150px;
+}
+
+.buttons {
+	float: left;
+	padding: 10px;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  margin-top: 
+}
+
+.buttons li {
+  margin-top: 60px;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  width: 100px;
+}
+
+.stop {
+  border-radius: 0;
+  background-color: grey;
+  margin: 5%;
+  cursor: pointer;
+  width: 100px;
+  margin-bottom: 100px;
+}
+
+.slow {
+  border-radius: 0;
+  background-color: grey;
+  margin: 5%;
+  cursor: pointer;
+  width: 100px;
+  margin-bottom: 100px;
+}
+
+.go {
+  border-radius: 0;
+  background-color: grey;
+  margin: 5%;
+  cursor: pointer;
+  width: 100px;
+}
+
+.light {
+	float: left;
+	vertical-align: center;
+	height: 550px;
+  width: 200px;
+  background-color: #333;
+  border-radius: 40px;
+  margin: 10px auto;
+  padding: 40px;
+}
+
+.light li {
+  margin-top: 26px;
+}
