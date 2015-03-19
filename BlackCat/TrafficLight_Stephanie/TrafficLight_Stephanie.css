@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+.control {
+	float: left;
+	padding-top: 15px;
+}
+
+.light {
+	float: left;
+	background-color: #4C4C4C;
+	padding: 20px;
+	border-radius: 30px;
+}
+
+.control li {
+	list-style: none;
+	background-color: #999999;
+	border-radius: 10px;
+	text-align: center;
+	padding: 20px;
+	margin:75px 35px;
+	font-size: 25pt;
+	color: white;
+	font-weight: bolder;
+	cursor: pointer;
+}
+
+#showlight  {
+	height: 150px;
+	width: 150px;
+	border-radius: 80px;
+	margin: 15px;
+	background-color: black;
+}
