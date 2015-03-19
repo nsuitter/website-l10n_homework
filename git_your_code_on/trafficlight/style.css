@@ -1,0 +1,97 @@
+
+.div {
+	display: inline-block;
+	float: left;
+}
+
+.text {
+	float: left;
+	margin-top: 226px;
+	margin-bottom: 182px;
+	margin-left: 80px;
+	margin-right: 11px;
+
+}
+
+.text li {
+	list-style: none;
+	background-color: #808080;
+	height: 120px;
+	width: 222px;
+	border-radius: 20px;
+	margin-top: 0px;
+	margin-bottom: 160px;
+	text-align: center;
+	font-family: Arial; 
+	font-weight: bold;
+	font-size: 70px;
+	padding-top: 30px;
+	color: #FDFDFD;
+
+}
+
+
+.light {
+	float: left; 
+	border: 2px solid black;
+	height:1118px;
+	width: 480px;
+	border-radius: 90px;
+	background-color: #333333;
+	margin-right: 80px;
+	margin-left: 80px;
+	margin-top: 45px;
+	margin-bottom: 34px;
+}
+
+.light li {
+	list-style: none;
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+	margin-top: 19px;
+	margin-bottom: 19px;
+	margin-right: 90px;
+	margin-left: 90px;
+}
+
+.light li:first-child {
+	margin-top: 90px;
+}
+
+.light li:last-child {
+	margin-bottom: 90px;
+}
+
+
+
+.turnred {
+	background-color: #FB0D1C;
+	
+}
+
+.red {
+	background-color: red;
+}
+
+
+.turnyellow {
+	background-color: black;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.turngreen {
+	background-color: black;
+}
+
+.green {
+	background-color: green;
+}
+
+.black {
+	background-color: black;
+}
+
