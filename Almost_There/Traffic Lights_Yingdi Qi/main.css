@@ -1,0 +1,43 @@
+#ControlButtons {
+  text-align: center;
+  padding-top: 50px;
+  float: left;
+}
+
+.ControlButtons li {
+  font-family: sans-serif;
+  font-weight: 900;
+  background-color: grey;
+  color: white;
+  font-size: 40px;
+  padding: 25px;
+  margin-top: 90px;
+  margin-right: 20px;
+  margin-bottom: 150px;
+  margin-left: 10px;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+#TrafficLights {
+  border-radius: 50px;
+  height: 800px;
+  width: 320px;
+  background-color: #414640;
+  float: left;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.TrafficLights li {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: #000000;
+  border:10px;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 25px;
+  list-style-type: none;
+}

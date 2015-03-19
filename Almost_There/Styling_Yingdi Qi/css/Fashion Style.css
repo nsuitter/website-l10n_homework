@@ -14,7 +14,7 @@ a {
 h1 a {
 	font-size: 42px;
 	font-weight: 100;
-	color: #DB4949;
+	color: red;
 }
 
 h2 {
@@ -90,7 +90,7 @@ footer li:last-child {
 }
 
 footer p {
-    color: #cccccc;
+    color: #DDDDDD;
 }
 
 footer {
@@ -101,7 +101,4 @@ img {
   max-width: 100%;
 }
 
-article p {
-	font-weight: lighter; 
-};
 
