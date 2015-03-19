@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	list-style: none;
+}
+
+.button {
+	float: left;
+	margin-top: 100px;
+	margin-left: 30px;
+	padding-left: 0;
+}
+
+.button li {
+	background-color: grey;
+	color: white;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-bottom: 110px;
+	padding: 23px;
+	height: 85px;
+	width: 130px;
+	border-radius: 15px;
+}
+
+.light {
+	float: left;
+	background-color: #333333;
+	padding-left: 0;
+	margin-top: 60px;
+	margin-left: 0;
+	border-radius: 50px;
+}
+
+
+.light li {
+	height: 150px;
+	width: 150px;
+	border-radius: 75px;
+	margin: 50px;
+	background-color: black;
+	transition: background 800ms;
+}
+	
