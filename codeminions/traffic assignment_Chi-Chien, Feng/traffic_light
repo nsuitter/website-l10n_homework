@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+  <title>Traffic Light</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+
+<body>
+<ul class = "left">
+    <li class="stop">
+    <div class="text">Stop</div>
+    </li>
+    <li class="slow">
+    <div class="text">Slow</div>
+    </li>
+    <li class="go">
+    <div class="text">Go</div>
+    </li>
+</ul>
+
+<ul class="traffic">
+    <li class="circle red"></li>
+    <li class="circle yellow"></li>
+    <li class="circle green"></li>
+</ul>
+  
+
+<script src="main.js"></script>
+
+</body>
+
+
+</html>
