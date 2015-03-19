@@ -1,0 +1,99 @@
+* {
+	list-style:none;
+	box-sizing:border-box;
+}
+
+.image {
+	position: relative;
+	padding: 30px;
+	text-align: center;
+	background-color: #ddd;
+}
+.border-wrap {
+	position: relative;
+	display: inline-block;
+	line-height: 0;
+	background-color: #fff;
+	border: 1px solid #999;
+}
+
+body {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 20px;
+	color: white; 
+}
+
+.button {
+	float: left;
+}
+
+.Stop {
+	border: none;
+    background: grey;
+    width: 60px;
+    height: 10px; 
+    border-radius: 10px;
+    padding: 20px 8px;
+ 	margin: 50px 25px 30px -20px;
+}
+
+.Slow {
+	border: none;
+    background: grey;
+    width: 60px;
+    height: 10px; 
+    border-radius: 10px;
+    padding: 20px 8px;
+    margin: 50px 25px 30px -20px;
+}
+
+.Go {
+	border: none;
+    background: grey;
+    width: 60px;
+    height: 10px; 
+    border-radius: 10px;
+    padding: 20px 8px;
+    margin: 50px 25px 30px -20px;
+}
+
+.light {
+	float: right;
+	border: none;
+    background: #2C2C2C;
+    width: 120px;
+    height: 300px; 
+    border-radius: 20px;
+    margin: 10pt;
+}
+
+.red {
+	background-color: red;
+	border: none;
+	height: 74px;
+	width: 74px;
+	border-radius: 37px;
+	margin-top: 14pt;
+	margin-left: -11pt;
+}
+
+.yellow {
+	background-color: yellow;
+	border: none;
+	height: 74px;
+	width: 74px;
+	border-radius: 37px;
+	margin-top: 14pt;
+	margin-left: -11pt;
+}
+
+.green {
+	background-color: green;
+	border: none;
+	height: 74px;
+	width: 74px;
+	border-radius: 37px;
+	margin-top: 14pt;
+	margin-left: -11pt;
+}
