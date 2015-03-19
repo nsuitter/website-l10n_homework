@@ -1,0 +1,41 @@
+* {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	box-sizing: border-box;
+	text-align: center;
+	list-style: none;
+}
+
+.buttons {
+	float: left;
+	margin: 30px;
+}
+
+.lights {
+	float: left;
+	background-color: #333333;
+	border-radius: 75px;
+	padding: 40px;
+}
+
+.buttons li {
+	background-color: grey;
+	color: white;
+	margin-right: 50px;
+	margin-top: 200px;
+	margin-bottom: 180px;
+	padding: 50px;
+	height: 150px;
+	width: 230px;
+	border-radius: 15px;
+}
+
+.lights li {
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+	margin: 50px;
+	background-color: black;
+	transition: background 2000ms;
+}
