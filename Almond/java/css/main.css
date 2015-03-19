@@ -1,0 +1,49 @@
+<style>
+	
+	*{
+		list-style: none;
+	}
+	.signs {
+	float: left;
+	padding-top: 5px;
+}
+
+	.lights{
+		float: left;
+	background-color: #444444;
+	padding: 10px;
+	border-radius: 30px;
+	}
+
+	#LightOn  {
+	height: 150px;
+	width: 150px;
+	border-radius: 80px;
+	margin: 15px;
+	background-color: black;
+}
+
+	.lights li{
+		border:2px solid black;
+        margin-top: 20px; 
+        margin-left: 55px;  
+		height: 100px;
+		width: 100px;
+		border-radius: 50px;
+		background-color: black;
+	}
+
+	.signs li{
+		background-color: #999999;
+	border-radius: 10px;
+	text-align: center;
+	padding: 20px;
+	margin:75px 35px;
+	font-size: 25pt;
+	color: white;
+	font-weight: bolder;
+	cursor: pointer;
+}
+	
+
+</style>
