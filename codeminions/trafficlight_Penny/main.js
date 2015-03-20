@@ -13,5 +13,5 @@ function (){
 document.getElementById("go").addEventListener("click", 
 function (){
 	document.getElementById("green").style.background = "green";
-    document.getElementById("red").style.background = "black";
+        document.getElementById("red").style.background = "black";
 	document.getElementById("yellow").style.background="black";});
